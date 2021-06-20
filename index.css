@@ -1,0 +1,51 @@
+html{
+    box-sizing: border-box;
+    overflow: hidden;
+    background-color: teal;
+ 
+}
+.calculation{
+  box-sizing: border-box;
+ 
+  margin-top: 5%;
+  margin-left: 35%;
+}
+.lowerimg{
+ padding-left: 75%;
+}
+
+
+#leapinput{
+    margin-left: 5%;
+   
+    padding-left: 15%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    border-radius: 5px;
+
+}
+#submit{
+    margin-left: 18%;
+    margin-top: 2%;
+    padding-left: 10%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    padding-right: 10%;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    
+}
+#response{
+   
+  text-align: center;
+  font-size: 100%;
+  font-style: italic;
+  font-family: fantasy;
+  padding-top: 5%;
+}
+
+
+#submit:hover{
+    background-color: chocolate;
+}
